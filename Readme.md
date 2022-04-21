@@ -3,7 +3,7 @@
 # Welcome to the Data Thieves Project!
 
 In this project you will get all the data yourself! :scream:
-Get ready to present your Project on Friday :)
+Now is the time for you to start discovering all the infinities that web data has to offer, use your creativity and discuss in group how you can reach the next level!
 
 ## Content
 
