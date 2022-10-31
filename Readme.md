@@ -4,7 +4,7 @@
 
 In this project you will get all the data yourself! :scream:
 Now is the time for you to start discovering all the infinities that web data has to offer, use your creativity and discuss in group how you can reach the next level!
-By now, getting pre-made databases are way too simple for you, it's high time you start leveraging your freshly learnt skills, and bring your inner hacking skills into practice.
+By now, getting pre-made databases is way too simple for you, it's high time you start leveraging your freshly learnt skills, and bring your inner hacker into practice.
 
 ## Content
 
