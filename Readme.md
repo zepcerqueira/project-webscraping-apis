@@ -83,7 +83,7 @@ This one is on you! You have already a couple of projects in your bag and are ge
 
 ## README File structure
 
-The README will be your paper and it is meant to have all the (analysis) information about your project.
+The README will be your paper and exists to act as a guide of your project. From describing the idea to having a walk-through on how to use your scripts, the README is the welcome file for any user that encounters your project.
 
 The structure should be:
 
