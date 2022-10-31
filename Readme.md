@@ -4,7 +4,9 @@
 
 In this project you will get all the data yourself! :scream:
 Now is the time for you to start discovering all the infinities that web data has to offer, use your creativity and discuss in group how you can reach the next level!
-By now, getting pre-made databases is way too simple for you, it's high time you start leveraging your freshly learnt skills, and bring your inner hacker into practice.
+By now, getting pre-made databases is way too simple for you, it's high time you start leveraging your freshly learnt skills, and bring your inner hacker into practice. 
+
+Instead of just doing an analysis, we want you to use data's full porpose, be a driver for business strategy and growth, by you developing your own business product or new features!
 
 ## Content
 
@@ -25,8 +27,8 @@ By now, getting pre-made databases is way too simple for you, it's high time you
 
 In this project, you will choose a topic and collect all the data by yourself. Luckily there's hundreds of Free API's where you can pull data from, and for the cases where there's no API, you'll have a chance to practice your cool web-scraping skills.
 If needed, you can later enrich your data with other sources of data.
-Always with a business sense in mind, you'll have a chance to dive deep into a topic of your choosing and come up with a new product/ project/ features. 
-You don't need to reinvent the wheel, sometimes looking at things through a different perspective is all it's needed to develop great solution for specific users/clients.
+Always with a business sense in mind, you'll have a chance to dive deep into a topic of your choosing and come up with a new product/ features. 
+You don't need to reinvent the wheel, sometimes looking at things through a different perspective is all it takes to develop great solutions for specific users.
 
 <a name="project-goals"></a>
 
@@ -34,7 +36,7 @@ You don't need to reinvent the wheel, sometimes looking at things through a diff
 
 - Learn how to develop an interesting question and find the data to answer it.
 - Learn how to obtain data from different sources, including APIs, web-scraping and maybe even building some automated scrapers.
-- That data and pipeline should serve as the core development of the project, enabling to build your analysis/product.
+- Your data and pipeline should serve as the core development of the project, enabling to build your business idea.
 - In case you need additional data to improve the quality of your project, feel free to enrich with other open-source databases available online.
 
 <a name="requirements"></a>
