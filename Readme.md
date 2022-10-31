@@ -4,6 +4,7 @@
 
 In this project you will get all the data yourself! :scream:
 Now is the time for you to start discovering all the infinities that web data has to offer, use your creativity and discuss in group how you can reach the next level!
+By now, getting pre-made databases are way too simple for you, it's high time you start leveraging your freshly learnt skills, and bring your inner hacking skills into practice.
 
 ## Content
 
@@ -22,18 +23,19 @@ Now is the time for you to start discovering all the infinities that web data ha
 
 ## Project Description
 
-In this project, you will choose a topic and find all the relevant data yourself from Kaggle.
-Afterwards, you should enrich it by connecting to an API, find a dataset or scrape data from the web.
-You then must organize, clean and analyse the data you find and present your findings in a presentation (you may use plots!).
+In this project, you will choose a topic and collect all the data by yourself. Luckily there's hundreds of Free API's where you can pull data from, and for the cases where there's no API, you'll have a chance to practice your cool web-scraping skills.
+If needed, you can later enrich your data with other sources of data.
+Always with a business sense in mind, you'll have a chance to dive deep into a topic of your choosing and come up with a new product/ project/ features. 
+You don't need to reinvent the wheel, sometimes looking at things through a different perspective is all it's needed to develop great solution for specific users/clients.
 
 <a name="project-goals"></a>
 
 ## Project Goals
 
 - Learn how to develop an interesting question and find the data to answer it.
-- Learn how to obtain data from different sources, including APIs, open source datasets and/or scrape data from the web.
-- Build a database from the data you find for the whole team to use.
-- Explain more complex arguments with plots.
+- Learn how to obtain data from different sources, including APIs, web-scraping and maybe even building some automated scrapers.
+- That data and pipeline should serve as the core development of the project, enabling to build your analysis/product.
+- In case you need additional data to improve the quality of your project, feel free to enrich with other open-source databases available online.
 
 <a name="requirements"></a>
 
@@ -50,21 +52,19 @@ You then must organize, clean and analyse the data you find and present your fin
 
 You are required to turn in the following:
 
-1. Link to your profile on Kaggle.
-2. Link to your GitHub Repository and README.
-3. Documentation as talked about in class.
-4. Access information to your database with a description of each table and how they relate.
-5. Links to the data you are using (sources) and your organization (trello).
+1. GitHub Repository with scripts and notebooks used, README and a requirements.txt file.
+2. README file should have a description of your project and how does the pipeline work.
+3. Links to any external data you used (should also be on the README file) .
 6. Slides for your presentation.
 
 <a name="mentoring"></a>
 
 ## Mentoring
 
-Either a TA or the Lead Teacher will be your mentor!
-Your mentor will:
+Your TA's and  LT will be your mentors!
+We will:
 
-- Follow your project in general, will be the second person that knows more about the project, after you.
+- Follow your project in general, will be the second person that knows more about the project, after your group.
 - Check if you are following the tasks, your blockers, etc
 - Help/support you in specific questions.
 
@@ -77,24 +77,7 @@ Your mentor is NOT meant to:
 
 ## Schedule
 
-_Tuesday & Wednesday_
-
-- Look for an interesting topic and make some hypothesis or think about some questions to answer about it.
-- Investigate which data sources are available for that topic.
-- Reach some best practices agreements as a team.
-- Plan your project and organize. Think about some risks you can expect.
-- Start working on your database.
-
-_Thursday_
-
-- Start working on your analysis and plots. Think about the plots you want to create and the structure of your presentation.
-- Finish your analysis.
-- Start working on your presentation.
-
-_Friday_
-
-- Adjust your presentation.
-- Presentation!!
+This one is on you! You have already a couple of projects in your bag and are getting better and better at organising and working as a team, let's keep building that momentum.
 
 <a name="json-structure"></a>
 
@@ -106,9 +89,9 @@ The structure should be:
 
 1. Title of the project
 2. Introduction to your project.
-3. Data you are using (and comments, main challenges, strengths & weaknesses, etc...)
-4. Questions you want to answer (maybe divided by different topics). Each question should include a conclusion written in a markdown cell.
-5. Conclusions after your analysis.
+3. Explanation of how your pipeline works (API's + web-scraping depending on each case).
+4. Links to sources of external data you used to enrich your project (if aplicable).
+5. Conclusions after your analysis/ product/ feature(s) development.
 6. Further questions.
 
 <a name="presentation"></a>
@@ -118,13 +101,11 @@ The structure should be:
 You will have 10 minutes to present your project. The below are some ideas for slides you could include in your presentation; those marked with an **(M)** are mandatory!
 
 - **(M)** Title of the project
-- **(M)** Your topic. Why did you choose it?
-- **(M)** Presentation of the team
-- Main challenges & strengths
-- **(M)** Team. Did you follow your workflow plan? Did you add something after starting the project? Did you follow your best practices agreements? Did you think about the risk management?
-- About your data: useful sources, incomplete data, data that would have been great to have, etc.
-- Data cleaning: how and why you cleaned your data the way you did.
-- **(M)** Main insights: one slide per insight!
+- **(M)** Business idea.
+- **(M)** Technical developments.
+- Main challenges & strengths.
+- Product / Feature showcasing.
+- Main insights.
 - Questions you couldn't answer.
 - Something funny that happened during the project.
 - Things you learned during this project.
@@ -134,7 +115,7 @@ You will have 10 minutes to present your project. The below are some ideas for s
 
 ## Tips & Tricks
 
-- First, choose your topic and look for sources available.
+- First, choose your topic and look for API's that can help you providing data.
 - Before you start coding and integrate more data, propose some interesting questions you could answer with the data you have.
 
 <a name="resources"></a>
