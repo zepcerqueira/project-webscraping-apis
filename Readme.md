@@ -2,11 +2,10 @@
 
 # Welcome to the Data Thieves Project!
 
-In this project you will get all the data yourself! :scream:
-Now is the time for you to start discovering all the infinities that web data has to offer, use your creativity and discuss in group how you can reach the next level!
-By now, getting pre-made databases is way too simple for you, it's high time you start leveraging your freshly learnt skills, and bring your inner hacker into practice. 
+In this project you will get all the data yourself! 😱 
+By now, getting pre-made databases is way too simple for you, it's high time you start leveraging your freshly learnt skills, and bring your inner hacker into practice. Discover all the possibilities that web data has to offer; use your creativity and discuss in group how you can reach the next level! 
 
-Instead of just doing an analysis, we want you to use data's full porpose, be a driver for business strategy and growth, by developing your own product or new features for an existing business!
+There will be plenty of projects where the focus will be on doing analysis. For this one, we want you to develop your own product or new features for an existing business. You are welcome to use the analytical tools you have learned as well, but the focus should be on functionality this time.
 
 ## Content
 
@@ -56,6 +55,7 @@ You are required to turn in the following:
 
 1. GitHub Repository with scripts and notebooks used, README and a requirements.txt file.
 2. README file should have a description of your project and how does the pipeline work.
+3. Requirements file should have all the packages used for someone to run your scripts/notebooks. Always consider that when someone uses your code, they'll do it in a new environment, where the only packages that should be installed are the ones your project requires to be ran.
 3. Links to any external data you used (should also be on the README file) .
 6. Slides for your presentation.
 
