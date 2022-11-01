@@ -6,7 +6,7 @@ In this project you will get all the data yourself! :scream:
 Now is the time for you to start discovering all the infinities that web data has to offer, use your creativity and discuss in group how you can reach the next level!
 By now, getting pre-made databases is way too simple for you, it's high time you start leveraging your freshly learnt skills, and bring your inner hacker into practice. 
 
-Instead of just doing an analysis, we want you to use data's full porpose, be a driver for business strategy and growth, by you developing your own business product or new features!
+Instead of just doing an analysis, we want you to use data's full porpose, be a driver for business strategy and growth, by developing your own product or new features for an existing business!
 
 ## Content
 
