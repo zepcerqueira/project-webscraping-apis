@@ -55,8 +55,8 @@ You are required to turn in the following:
 
 1. GitHub Repository with scripts and notebooks used, README and a requirements.txt file.
 2. README file should have a description of your project and how does the pipeline work.
-3. Requirements file should have all the packages used for someone to run your scripts/notebooks. Always consider that when someone uses your code, they'll do it in a new environment, where the only packages that should be installed are the ones your project requires to be ran.
-3. Links to any external data you used (should also be on the README file) .
+3. Requirements file should have all the packages used for someone to run your scripts/notebooks. Always consider that when someone uses your code, they'll do it in a new environment, where the only packages that should be installed are the ones your project requires to be ran. Ideally it should also be specified the package version (ex: `scipy==1.4.1`)
+5. Links to any external data you used (should also be on the README file) .
 6. Slides for your presentation.
 
 <a name="mentoring"></a>
